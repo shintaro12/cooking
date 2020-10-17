@@ -1,0 +1,29 @@
+@charset "utf-8";
+.make2 {
+    padding: 90px 0 60px;
+    color: #0f1014;
+}
+.make2-card {
+    width: 35%;
+    margin-top: 35px;
+}
+.make2-card-inner {
+    padding: 25px 30px;
+    background-color: #f7e184;
+    border-radius: 7px;
+    box-shadow: 1px 1px 4px #707176;
+/*    text-align: center;*/
+    margin: 0 20px;
+}
+.make2-img {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.make2-text {
+    font-size: 16px;
+}
+.make2-card-wrapper {
+    display: flex;
+/*    flex-wrap: wrap;*/
+}
